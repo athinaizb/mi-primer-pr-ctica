@@ -1,0 +1,42 @@
+img{
+    height: 300px;
+    }
+
+    #cabecera {
+    display: flex;
+    justify-content: left;
+    background-color: tan;
+    }
+
+    #contacto {
+        margin-left: 32px;
+        margin-top: px;
+    }
+
+    #espectativas {
+        width: 600px;
+    }
+    #cursos {
+        width: 600px;
+    }
+
+    h2 {
+        color: lightblue;
+        text-shadow: 1px 1px 2px gray;
+    }
+    h1 {
+        color: lightblue;
+        text-shadow: 1px 1px 2px gray;
+    }
+
+    #cuerpo {
+        background-color: whitesmoke;
+        width: 50%;
+        border-style: solid;
+        border-color: lightblue;
+        padding: 12px;
+    }
+    
+    h4 {
+        margin-bottom: 10px;
+    }
